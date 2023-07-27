@@ -1,0 +1,33 @@
+{
+  "name": "eslint-plugin-no-restricted-imports-clone",
+  "version": "1.0.0",
+  "description": "ESLint rule to allow for multiple severities to be used for no-restricted-imports",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "rule",
+    "no-restricted-imports"
+  ],
+  "author": "Mike Ellis",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "rules/"
+  ],
+  "devDependencies": {
+    "eslint": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mellis481/eslint-plugin-no-restricted-imports-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mellis481/eslint-plugin-no-restricted-imports-clone/issues"
+  },
+  "homepage": "https://github.com/mellis481/eslint-plugin-no-restricted-imports-clone#readme"
+}
