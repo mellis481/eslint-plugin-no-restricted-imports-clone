@@ -15,6 +15,9 @@
     "index.js",
     "rules/"
   ],
+  "scripts": {
+    "test": "node tests.js"
+  },
   "devDependencies": {
     "eslint": ">=3.0.0"
   },
