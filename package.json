@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-restricted-imports-clone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint rule to allow for multiple severities to be used for no-restricted-imports",
   "keywords": [
     "eslint",
